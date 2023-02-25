@@ -14,3 +14,10 @@ parse_japanese_address('大阪府大阪市港区築港3丁目5-9')
 
 >>> ('大阪府', '大阪市港区', '築港', '3丁目', '5-9')
 ```
+
+
+
+
+
+References: 
+https://github.com/wakame1367/japanese-addresses
