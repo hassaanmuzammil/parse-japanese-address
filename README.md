@@ -2,11 +2,11 @@
 
 Break down a japanese address to 5 levels:
 
-- prefecture 
-- city/ward/district/town (市区郡町)
+- prefecture (県 都 府)
+- city/ward/district/town (市 区 郡 町)
 - town/area
 - chome (丁目)
-- banchi-go OR block-building (番地-号)
+- banchi-go OR block-building (番地 - 号)
 
 Example:
 ```
